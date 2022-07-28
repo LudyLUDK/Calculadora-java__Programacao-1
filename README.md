@@ -1,2 +1,14 @@
-# Calcladora-java
- Calculadora (JAVA)
+# [UNICESUMAR] [PROGRAMAÇÃO II] - Projeto Calculadora
+
+---
+
+## Primeiro projeto da disciplina de Programação I
+
+*Operaçôes*
+
+- Soma
+- Subtração
+- Multiplicação
+- Divisão
+
+Autor: Diego Santos
